@@ -1,0 +1,18 @@
+
+.container{
+    margin-bottom: 50px;
+}
+.buy-now-button{
+    background-color:black;
+    color: white;
+    padding:20 px;
+    border-radius: 10px;
+}
+.card{
+    border: none;
+    border-radius: 10px;
+    box-shadow:5px 5px 10px gray;
+}
+h6{
+    color: darkorange;
+}
